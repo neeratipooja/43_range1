@@ -1,6 +1,6 @@
 '''
-DAY:WEDNESDAy
-DATE:30th NOV 2022
+DAY:friday
+DATE:2nd dec 2022
 TOPIC:range
 AUTHOR:pooja
 '''
